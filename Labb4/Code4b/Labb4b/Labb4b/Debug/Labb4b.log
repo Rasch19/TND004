@@ -1,3 +1,4 @@
 ﻿  graph.cpp
-  Labb4b.vcxproj -> C:\Users\johan\Documents\Code4b\Labb4b\Debug\Labb4b.exe
-  Labb4b.vcxproj -> C:\Users\johan\Documents\Code4b\Labb4b\Debug\Labb4b.pdb (Partial PDB)
+d:\documents\tnd004\labb4\code4b\graph.cpp(104): warning C4018: '<=': signed/unsigned mismatch
+  Labb4b.vcxproj -> D:\Documents\TND004\Labb4\Code4b\Labb4b\Debug\Labb4b.exe
+  Labb4b.vcxproj -> D:\Documents\TND004\Labb4\Code4b\Labb4b\Debug\Labb4b.pdb (Partial PDB)
